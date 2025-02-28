@@ -12,8 +12,8 @@ Shorttrack, ook wel snel schaatsen genoemd is een sport met veel snelheid en tec
 ## **Meer Informatie**
 [Klik hier voor een uitgebreide gids over shorttrack](https://www.isu.org/short-track)
 
-## **Shorttrack Schaatsen**
-![Shorttrack Schaatsen](https://www.google.com/imgres?q=shorttrack%20schaatsen&imgurl=https%3A%2F%2Fwww.sebrasports.com%2Fwp-content%2Fuploads%2F2020%2F07%2FSebra-Sports__shorttrack-titleimg.png&imgrefurl=https%3A%2F%2Fwww.sebrasports.com%2F&docid=Ivb7uet6KmIZVM&tbnid=59C_IhVkHu1SeM&vet=12ahUKEwjckIah6OaLAxXXRKQEHWkcE2oQM3oECDQQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwjckIah6OaLAxXXRKQEHWkcE2oQM3oECDQQAA)
+## **Shorttrack Schaatsen**[foto schaatsen]
+![Shorttrack Schaatsen](https://www.google.com/imgres?q=shorttrack%20schaatsen&imgurl=https%3A%2F%2Fwww.yvz.nl%2Fwordpress%2Fwp-content%2Fuploads%2F2019%2F08%2FSchermafbeelding-2019-08-15-om-21.38.15.png&imgrefurl=https%3A%2F%2Fwww.yvz.nl%2Fshorttrack%2Fintroductie%2F&docid=tweA0S0y1YrObM&tbnid=msFLoWK7q9IZCM&vet=12ahUKEwiBvrzi_eaLAxViaqQEHQvIAPwQM3oECDMQAA..i&w=964&h=639&hcb=2&ved=2ahUKEwiBvrzi_eaLAxViaqQEHQvIAPwQM3oECDMQAA)
 ## **Inspirerend Citaat**
 > "Shorttrack is een schaakspel op ijs." – Onbekend
 
@@ -39,3 +39,9 @@ Shorttrack, ook wel snel schaatsen genoemd is een sport met veel snelheid en tec
 | Bescherming     | €50 - €200      |
 | Schaatspak      | €100 - €500     |
 | Messen slijpen  | €20 - €100      |
+
+## **Belangrijke Woorden**
+Shorttrack draait om **snelheid**, **techniek** en *tactiek*. Zonder deze elementen kun je niet succesvol zijn in deze sport.
+
+## **Interne Links**
+[foto schaatsen]
