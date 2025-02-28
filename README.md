@@ -13,7 +13,7 @@ Shorttrack, ook wel snel schaatsen genoemd is een sport met veel snelheid en tec
 [Klik hier voor een uitgebreide gids over shorttrack](https://www.isu.org/short-track)
 
 ## **Shorttrack Schaatsen**[foto schaatsen]
-![Afbeelding over shorttrack](https://tse3.mm.bing.net/th?id=OIP.BOkxciUL3Umkh71ByHlwbwHaE8&pid=Api)
+![foto shorttrack](https://tse3.mm.bing.net/th?id=OIP.BOkxciUL3Umkh71ByHlwbwHaE8&pid=Api)
 ## **shorttrack video**
 2. [Video over shorttrack](https://github.com/GCU-Team5/ShortTrack_AI_Editor)
 ## **Inspirerend Citaat**
