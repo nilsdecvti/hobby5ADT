@@ -31,3 +31,11 @@ Shorttrack, ook wel snel schaatsen genoemd is een sport met veel snelheid en tec
 </body>
 </html>
 ```
+## **Benodigde Materialen**
+
+| Item              | Geschatte Kosten |
+|------------------|----------------|
+| Shorttrack schaatsen | €300 - €1000  |
+| Bescherming     | €50 - €200      |
+| Schaatspak      | €100 - €500     |
+| Messen slijpen  | €20 - €100      |
